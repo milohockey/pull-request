@@ -1,0 +1,3 @@
+This is the second file created in branch feature1
+
+This line was added as the third edit in branch feature1
